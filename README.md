@@ -1,12 +1,12 @@
 # 🚀 GitHub Live Stats
 
-Last Update: Mon Apr 20 20:27:17 UTC 2026
+Last Update: Mon Apr 20 21:07:55 UTC 2026
 
 ## 👤 Profile
 - Username: frhndevweb
-- Public Repos: null
-- Followers: null
-- Following: null
+- Public Repos: 37
+- Followers: 10
+- Following: 16
 
 ## ⚡ Automation
 This README updates every **5 minutes** using GitHub Actions.
